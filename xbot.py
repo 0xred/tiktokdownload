@@ -5,7 +5,8 @@ from aiogram import Bot, Dispatcher, executor, types
 headers = requests.utils.default_headers() #header
 headers.update({'User-Agent': 'Mozilla/5.0 (X22; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',})
 ##########################################################
-API_TOKEN = 'Add Token Here' 
+API_TOKEN = '1913344709:AAHWf65PL3e9FQ1eiQR8zzJ9VcMQc3f2hu0' 
+#this token for bot @redTiktok_bot .. take code if you want but dont forget change token .. don be idiot please
 ##########################################################
 # Configure logging
 logging.basicConfig(level=logging.INFO)
